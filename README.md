@@ -1,6 +1,12 @@
 # fishingbook
 전국 바다, 민물 낚시 예약 시스템
 
+# back-end
+
+# front-end
+
+# db
+
 # 디렉토리 구조
 ```bash
 fishingbook
