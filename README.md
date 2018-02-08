@@ -1,8 +1,9 @@
 # fishingbook
 전국 바다, 민물 낚시 예약 시스템
 
-#fishingbook 
+# 디렉토리 구조
 ```bash
+fishingbook
 ├── package.json         
 ├── public            # 서버 public path
 │   └── index.html    # 메인 페이지
