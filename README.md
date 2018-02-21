@@ -8,7 +8,7 @@
 # db
 
 # 디렉토리 구조
-```bash
+```bash 
 fishingbook
 ├── package.json         
 ├── public            # 서버 public path
